@@ -1,8 +1,0 @@
-pygame
-pydub
-librosa
-numpy
-soundfile
-Pillow
-python-resize-image
-pyalsaaudio
